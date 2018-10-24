@@ -1,3 +1,6 @@
+# Author: Javier Rojo
+# Date: 2018
+# Demo for calculating convex hull
 from math import sqrt,degrees
 from Point import Point
 from Vector import Vector
